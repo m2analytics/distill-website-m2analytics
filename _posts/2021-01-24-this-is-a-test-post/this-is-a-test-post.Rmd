@@ -1,0 +1,20 @@
+---
+title: "This is a test post"
+description: |
+  Trying to configure the new website..
+author:
+  - name: Unknown
+date: 01-24-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+If this works, I will be very happy.
+
+
